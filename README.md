@@ -1,26 +1,45 @@
-# Hi, I'm Hilla 👋
+<header>
+  <h1>Hi, I'm Hilla :wave:</h1>
+</header>
 
-**This GitHub repository contains my personal Data, Cloud and Software Engineering projects.**
+`AboutMe` AiCore-certified Software & Data Engineer
 
-:rocket: I started a new career chapter as an engineer after 7+ years researching and producing documentaries for TV and film.
+`AlterEgos` Linguist | Researcher | Documentary Producer
 
-:hammer: I'm a maker and creator who finds satisfaction in building things and making them work.
+`ProgrammingLanguages` Python | SQL | JavaScript
 
-:books: Continuous learning is my way-of-life.
+`Domains` Data Analysis | Data Engineering | Data & Cloud Infrastructure | Back-End Development
 
-:flashlight: I'm an information excavator - I dig for facts and the stories they tell us.
-
-:dart: Finding solutions to sticky problems brings me the greatest joy.
-
-## Technical Skills
-
-![Static Badge](https://img.shields.io/badge/Languages-A8B78B) ![Static Badge](https://img.shields.io/badge/Python-8A2BE2) ![Static Badge](https://img.shields.io/badge/SQL-8A2BE2) ![Static Badge](https://img.shields.io/badge/JavaScript-8A2BE2) 
-
-![Static Badge](https://img.shields.io/badge/Skills%20%26%20Knowledge-A8B78B) ![Static Badge](https://img.shields.io/badge/Software%20Design-8A2BE2) ![Static Badge](https://img.shields.io/badge/Object%20Oriented%20Programming-8A2BE2) ![Static Badge](https://img.shields.io/badge/Webscraping-8A2BE2) ![Static Badge](https://img.shields.io/badge/Algorithms-8A2BE2) ![Static Badge](https://img.shields.io/badge/Data%20Structures-8A2BE2) ![Static Badge](https://img.shields.io/badge/Data%20Cleaning-8A2BE2) ![Static Badge](https://img.shields.io/badge/Data%20Storage%20Optimisation-8A2BE2)  ![Static Badge](https://img.shields.io/badge/STAR--schema%20Database-8A2BE2)
-
-![Static Badge](https://img.shields.io/badge/Python%20Libraries-A8B78B) ![Static Badge](https://img.shields.io/badge/Pandas-8A2BE2) ![Static Badge](https://img.shields.io/badge/NumPy-8A2BE2) ![Static Badge](https://img.shields.io/badge/SQLAlchemy-8A2BE2) ![Static Badge](https://img.shields.io/badge/boto3-8A2BE2) 
-
-![Static Badge](https://img.shields.io/badge/Other%20Tools-A8B78B) ![Static Badge](https://img.shields.io/badge/PostgreSQL-8A2BE2) ![Static Badge](https://img.shields.io/badge/AWS%20CLI-8A2BE2) ![Static Badge](https://img.shields.io/badge/pgAdmin%204-8A2BE2) ![Static Badge](https://img.shields.io/badge/Tabula-8A2BE2) ![Static Badge](https://img.shields.io/badge/Requests-8A2BE2) ![Static Badge](https://img.shields.io/badge/PyYAML-8A2BE2) ![Static Badge](https://img.shields.io/badge/JSON-8A2BE2) ![Static Badge](https://img.shields.io/badge/os.path-8A2BE2) ![Static Badge](https://img.shields.io/badge/dateutil-8A2BE2) ![Static Badge](https://img.shields.io/badge/SQLTools-8A2BE2) ![Static Badge](https://img.shields.io/badge/VS%20Code-8A2BE2) ![Static Badge](https://img.shields.io/badge/Git%20and%20GitHub-8A2BE2)  ![Static Badge](https://img.shields.io/badge/AWS-8A2BE2) ![Static Badge](https://img.shields.io/badge/API%20Requests-8A2BE2) ![Static Badge](https://img.shields.io/badge/Error%20Handling-8A2BE2) ![Static Badge](https://img.shields.io/badge/Regular%20Expressions-8A2BE2) ![Static Badge](https://img.shields.io/badge/Command%20Line-8A2BE2) 
+<h2>Technologies</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="auto" height="60">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="auto" height="60">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="auto" height="60">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="auto" height="75">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas width="auto" height="60">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="auto" height="75">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="auto" height="60">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="auto" height="60">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" width="auto" height="75">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="auto" height="60">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="auto" height="70">&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_kinesis_logo_icon_170590.png" alt="Kinesis" height="60" width="auto">&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" alt="Apache Spark" height="60" width="auto">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" height="60" width="auto">&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_169299.png" alt="Databricks" height="60" width="auto">&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/aws-api-gateway-icon-423x512-70e4i3mi.png" alt="AWS API Gateway" height="60" width="auto">&nbsp;
+</div>
+<h2>Check out my recent projects</h2>
+<div>
+  <ul><a href="https://github.com/hillaabra/pinterest-data-pipeline934">Pinterest Data Pipeline</a></ul>
+  <ul><a href="https://github.com/hillaabra/multinational-retail-data-centralisation">Multinational Retail Data Centralisation</a></ul>
+  <ul><a href="https://github.com/hillaabra/hangman">Hangman</a></ul>
+</div>
+<h2>Get in touch</h2>
+<div>
+    <a href="https://www.linkedin.com/in/hilla-abramov/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="auto" height="60"></a>&nbsp;
+    <a href="mailto:hilla.abramov@gmail.com"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" width="auto" height="60"></a>
+</div>
 
 <!--
 **hillaabra/hillaabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
